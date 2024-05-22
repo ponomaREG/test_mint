@@ -1,4 +1,5 @@
-// swift-tools-version: 5.6
+// swift-tools-version:5.6
+
 let package = Package(
     name: "Ios Test",
     products: [
